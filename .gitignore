@@ -1,0 +1,13 @@
+# Only the GitHub Pages legal site is tracked in this repo.
+# Full Dao Chant app source stays local / elsewhere — not pushed.
+
+*
+!.gitignore
+!LICENSE
+!docs/
+!docs/index.html
+!docs/privacy.html
+!docs/terms.html
+!docs/support.html
+!docs/styles.css
+!docs/README.md
